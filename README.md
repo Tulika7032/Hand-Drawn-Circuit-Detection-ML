@@ -130,9 +130,6 @@ This module uses **Ultralytics YOLO** for detecting multiple circuit symbols wit
 
 ---
 
-
----
-
 ## Dataset
 
 The project uses the **Hand-Drawn Circuit Schematic Components Dataset** from Kaggle.
